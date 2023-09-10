@@ -15,21 +15,20 @@
   <li>LinkedIn: <a href="https://www.linkedin.com/in/aleksei-matiushkin-dev/">Профиль LinkedIn</a></li>
 </ul>
 
-<!-- Ключевые навыки -->
-<!-- Ключевые навыки -->
 <h2>Ключевые навыки</h2>
-<p>
-  <span class="skill">HTML</span> •
-  <span class="skill">CSS</span> •
-  <span class="skill">ReactJS</span> •
-  <span class="skill">JavaScript</span> •
-  <span class="skill">Git</span> •
-  <span class="skill">REST API</span> •
-  <span class="skill">Jest</span> •
-  <span class="skill">Redux</span> •
-  <span class="skill">Node.js</span> •
-  <span class="skill">Docker</span>
-</p>
+<ul>
+  <li>🌐 <strong>HTML</strong> - Создание структуры веб-страниц.</li>
+  <li>🎨 <strong>CSS</strong> - Оформление и стилизация веб-интерфейсов.</li>
+  <li>⚛️ <strong>ReactJS</strong> - Разработка интерактивных веб-приложений.</li>
+  <li>💡 <strong>JavaScript</strong> - Программирование на стороне клиента.</li>
+  <li>📦 <strong>Git</strong> - Управление версиями и контроль кода.</li>
+  <li>🌍 <strong>REST API</strong> - Создание и взаимодействие с API.</li>
+  <li>🃏 <strong>Jest</strong> - Тестирование кода и компонентов.</li>
+  <li>🔄 <strong>Redux</strong> - Управление состоянием приложения.</li>
+  <li>🖥️ <strong>Node.js</strong> - Разработка на стороне сервера.</li>
+  <li>🐳 <strong>Docker</strong> - Контейнеризация и развертывание приложений.</li>
+</ul>
+
 
 <style>
   .skill {
