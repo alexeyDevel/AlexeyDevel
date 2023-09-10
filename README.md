@@ -20,19 +20,49 @@
   <a href="#" title="HTML">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40">
   </a>
+  <a href="#" title="CSS">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40">
+  </a>
+  <a href="#" title="JavaScript">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
+  </a>
+  <a href="#" title="TypeScript">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40">
+  </a>
+  <a href="#" title="ReactJS">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40">
+  </a>
+  <a href="#" title="Redux">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40">
+  </a>
+  <a href="#" title="Node.js">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40">
+  </a>
+  <a href="#" title="Jest">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40">
+  </a>
+  <a href="#" title="Docker">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40">
+  </a>
+  <a href="#" title="mongodb">
+    <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40">
+  </a>
+  <a href="#" title="Webpack">
+    <img src="https://github.com/devicons/devicon/raw/master/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40">
+  </a>
+  <a href="#" title="Sass">
+    <img src="https://github.com/devicons/devicon/raw/master/icons/sass/sass-original.svg" alt="Sass" width="40" height="40">
+  </a>
+  <a href="#" title="Git">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40" height="40">
+  </a>
+  <a href="#" title="materialui">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" alt="materialui" width="40" height="40">
+  </a>
+  <a href="#" title="redis">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40">
+  </a>
 </div>
-<p>HTML • CSS • ReactJS • JavaScript • Git • REST API • Jest • Redux • Node.js • Docker</p>
-
-
-<style>
-  .skill {
-    background-color: #007acc;
-    color: white;
-    padding: 2px 6px;
-    border-radius: 3px;
-    margin: 0 3px;
-  }
-</style>
 
 <!-- Опыт и достижения -->
 <h2>Опыт и достижения</h2>
