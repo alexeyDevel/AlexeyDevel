@@ -9,9 +9,8 @@
 <!-- Контакты -->
 <h2>Контакты</h2>
 <ul>
-  <li>Телефон: +7 (927) 041-79-79</li>
-  <li>Email: <a href="mailto:alexeydevelopermm@gmail.com">alexeydevelopermm@gmail.com</a></li>
   <li>Telegram: <a href="https://t.me/AlexeyDeveloper">@AlexeyDeveloper</a></li>
+  <li>Email: <a href="mailto:alexeydevelopermm@gmail.com">alexeydevelopermm@gmail.com</a></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/aleksei-matiushkin-dev/">Профиль LinkedIn</a></li>
 </ul>
 
