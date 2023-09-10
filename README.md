@@ -18,7 +18,7 @@
 <h2>Ключевые навыки</h2>
 <div>
   <a href="#" title="HTML">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40">
   </a>
 </div>
 <p>HTML • CSS • ReactJS • JavaScript • Git • REST API • Jest • Redux • Node.js • Docker</p>
