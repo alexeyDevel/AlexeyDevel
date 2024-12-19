@@ -63,7 +63,7 @@
   </a>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?alexeyDevel=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexeyDevel)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Опыт и достижения -->
 <h2>Опыт и достижения</h2>
