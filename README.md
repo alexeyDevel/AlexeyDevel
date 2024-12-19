@@ -62,9 +62,9 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40">
   </a>
 </div>
-```md
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-```
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?alexeyDevel=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Опыт и достижения -->
 <h2>Опыт и достижения</h2>
 <ul>
