@@ -62,7 +62,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40">
   </a>
 </div>
-
+![Kattni's GitHub stats](https://github-readme-stats.vercel.app/api?alexeyDevel=kattni&theme=tokyonight&show_icons=true)
 <!-- Опыт и достижения -->
 <h2>Опыт и достижения</h2>
 <ul>
